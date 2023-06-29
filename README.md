@@ -46,7 +46,8 @@ The project has the following directory structure:
   - `components`: Contains the reusable components used in the application.
   - `pages`: Contains the main pages of the application.
   - `services`: Contains the API service for interacting with the backend.
-  - `utils`: Contains utility functions used in the application.
+  - `utils`: Contains utility fun<img width="1470" alt="Screenshot 2023-06-29 at 7 08 49 PM" src="https://github.com/swatibbhadoriya/BlogoSphere/assets/73748705/e8f8ec10-feee-4e85-9863-3261a7de1234">
+ctions used in the application.
 - `server.js`: The backend server file.
 
 ## Technologies Used
